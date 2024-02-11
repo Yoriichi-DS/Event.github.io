@@ -5,6 +5,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body{
+    overflow: hidden;
+}
+
 .container{
     background-image: url(Harvest.png);
     height: 100vh;
